@@ -1290,7 +1290,7 @@ msgstr "%s Jahre"
 
 #: [blog]last
 msgid "Last public post"
-msgstr "Letzer öffentlicher Beitrag"
+msgstr "Letzter öffentlicher Beitrag"
 
 #: [blog]visit
 msgid "Visit the public blog"
@@ -1643,7 +1643,7 @@ msgstr "Keine neuen Benachrichtigungen"
 
 #: [onboarding]notifications_text
 msgid "Movim can notify you when a new post is published or if you receive messages"
-msgstr "Movim kann dich benachrichtigen, wenn ein neuer Post veröffentlicht wird oder du eine neue Nachricht erhälst"
+msgstr "Movim kann dich benachrichtigen, wenn ein neuer Post veröffentlicht wird oder du eine neue Nachricht erhältst"
 
 #: [onboarding]notifications_text_second
 msgid "You can always disable them afterwards"
@@ -2017,7 +2017,7 @@ msgstr "Chatraum ID"
 
 #: [chatrooms]name_placeholder
 msgid "My Favorite Room"
-msgstr "Mein Liebslingsraum"
+msgstr "Mein Lieblingsraum"
 
 #: [chatrooms]bad_id
 msgid "Bad Chatroom ID"
